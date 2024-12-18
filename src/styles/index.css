@@ -28,7 +28,12 @@
     padding: 0 5px;
   }
   .reloj {
+    background-color: #232020;
     font-size: 80px;
     color: white;
-    margin-right: 10px;
+    margin-right: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    
+   
   }
