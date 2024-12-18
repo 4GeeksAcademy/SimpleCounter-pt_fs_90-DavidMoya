@@ -1,12 +1,34 @@
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.contenedorContador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .digitos {
+    background-color: #232020;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 80px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0 5px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  .separador {
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    padding: 0 5px;
+  }
+  .reloj {
+    font-size: 80px;
+    color: white;
+    margin-right: 10px;
+  }
